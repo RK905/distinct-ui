@@ -1,0 +1,16 @@
+distinct-ui
+
+This project contains a modified version of skills/frontend-design/SKILL.md
+from https://github.com/anthropics/skills (Anthropic), licensed under the
+Apache License, Version 2.0 (see LICENSE).
+
+Modified by Rayen Kamta / GeeksDoByte (Rayen@geeksdobyte.com), 2026.
+
+Changes: renamed to distinct-ui; rewrote as a shorter, self-contained
+SKILL.md (about half the length); turned the "plan, review against the brief,
+build, critique" prose into a five-step loop; merged the five clusters of
+generated-design traits, the typographic tells, numbered-marker and motion
+guidance into one "defaults to avoid" table with an alternative for each;
+condensed the restraint section into a one-line quality floor; condensed the
+writing guidance into four copy rules; rewrote the description so the skill
+triggers on UI build and restyle tasks.
